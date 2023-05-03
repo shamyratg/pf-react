@@ -48,7 +48,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Uludag University</h3>
-                <span className="qualification__subtitle">Bursa/Turkey </span>
+                <span className="qualification__subtitle">Bursa/Turkiye </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>2018-2022
                 </div>
@@ -115,7 +115,7 @@ const Qualification = () => {
               <h3 className="qualification__title">Merv Dis. Tic</h3>
               <span className="qualification__subtitle">Ist/Turkey</span>
               <div className="qualification__calendar">
-                <i className="uil uil-calendar-alt"></i>06.2021-09.2021
+                <i className="uil uil-calendar-alt"></i>Jun 2021-Sep 2021
               </div>
             </div>
             <div>
@@ -134,7 +134,7 @@ const Qualification = () => {
               <h3 className="qualification__title">TrainMedia</h3>
               <span className="qualification__subtitle">Bursa/Turkey</span>
               <div className="qualification__calendar">
-                <i className="uil uil-calendar-alt"></i>09.2021-01.2022
+                <i className="uil uil-calendar-alt"></i>Oct 2021-Jan 2022
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@ const Qualification = () => {
           <div className="qualification__data">
             <div>
               <h3 className="qualification__title">Freelance</h3>
-              <span className="qualification__subtitle">Euroe</span>
+              <span className="qualification__subtitle">Europe</span>
               <div className="qualification__calendar">
                 <i className="uil uil-calendar-alt"></i>2022-Present
               </div>
