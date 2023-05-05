@@ -44,8 +44,10 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
+            
             <i className="uil uil-github-alt"></i>
           </a>
+          <img src="../../assets/about.jpg" alt="" srcset="" />
         </div>
         <span className="footer__copy">
           Personal Portfolio. All rights reserved
