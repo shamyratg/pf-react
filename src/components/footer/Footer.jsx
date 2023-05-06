@@ -1,14 +1,13 @@
 import React from "react";
 import "./footer.css";
-import footer from "../../assets/profile.jpg";
+import footer from "../../assets/kml_abt.jpeg";
 
 const Footer = () => {
   return (
     <footer className="footer" id="footer">
       <div className="footer__container container">
-        <div className="title_img" >
-        
-          <h1 className="footer__title">Shamyrat </h1>
+        <div className="title_img">
+          <h1 className="footer__title">Kemal Bashim </h1>
           <img className="footer__img" src={footer} alt="" />
         </div>
 
@@ -44,10 +43,9 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            
             <i className="uil uil-github-alt"></i>
           </a>
-          <img src="../../assets/about.jpg" alt="" srcset="" />
+          <img src="../../assets/kml_abt.jpeg" alt="" srcset="" />
         </div>
         <span className="footer__copy">
           Personal Portfolio. All rights reserved

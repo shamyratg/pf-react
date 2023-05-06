@@ -57,7 +57,8 @@
 }
 
 .home__img {
-  background: url(../../../src/assets/about11.jpg);
+  
+  background: url(../../../src/assets/kml_pro.avif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -67,6 +68,20 @@
   width: 300px;
   height: 300px;
   animation: file__animate 8s ease-in-out infinite 1s;
+}
+.home__img:hover{
+  
+  background: url(../../../src/assets/kml_abt.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 0 9px rgb(255 255 255 / 30%);
+  order: 1;
+  justify-self: center;
+  width: 300px;
+  height: 300px;
+  animation: file__animate 8s ease-in-out infinite 1s;
+  transition: all 2s ease-in;
 }
 
 @keyframes file__animate {
